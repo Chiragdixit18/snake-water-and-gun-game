@@ -1,0 +1,1 @@
+This is a simple game where you and computer select between snake water or a gun and compbination of different selections by player and computer results in winners ,either computer winner wins or the player,in this code i simply used conceps of a dictionary,conditional expressions.
